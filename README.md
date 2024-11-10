@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParthGumasana
 - 👀 I’m interested Artificial intelligence and data science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for internship
+- 💞️ I’m looking for Internship/Jobs
 - 📫 Contact parthgumasana@gmail.com
 
 <!---
